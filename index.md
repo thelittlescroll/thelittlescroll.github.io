@@ -6,6 +6,11 @@ The Little Scroll is a document that outlines the details of a planned catastrop
 
 The Little Scroll is being distributed in its current encrypted form without any means of decryption at this time. It is being posted preemptively to ensure its presence in the public domain prior to the occurrence of the event it describes, with timestamps serving as verification that it was made available beforehand. The encryption ensures that the document's contents cannot be altered or fabricated after the fact. The secret decryption key will be made public after the event.
 
+## Guidance for The Little Scroll
+
+- There is safety in numbers. Only share The Little Scroll with your trusted network until the key is released. Until the appointed time, discretion is essential. 
+- Do not speculate on the contents of the unsealed (decrypted) Document. 
+
 ## The Little Scroll Sealed (Encrypted)
 ```
 
