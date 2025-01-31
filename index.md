@@ -1,8 +1,7 @@
 ---
-title: The Little Scroll
+title: Welcome
 layout: home
 ---
-# Welcome 
 The Little Scroll is a document that outlines the details of a planned catastrophic event. The event will result in 7,000 immediate deaths (within 30 minutes) and up to 30,000 deaths in the short term (within 60 days).
 
 The Little Scroll is being distributed in its current encrypted form without any means of decryption at this time. It is being posted preemptively to ensure its presence in the public domain prior to the occurrence of the event it describes, with timestamps serving as verification that it was made available beforehand. The encryption ensures that the document's contents cannot be altered or fabricated after the fact. The secret decryption key will be made public after the event.
