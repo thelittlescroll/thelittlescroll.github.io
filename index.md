@@ -118,3 +118,5 @@ rd3Ko7jGuZHBuiYH6hH49w==
 ```
 
 ## Unsealing The Little Scroll (Decryption)
+The key will be released after the event and placed here. 
+
