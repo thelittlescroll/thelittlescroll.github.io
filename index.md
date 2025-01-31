@@ -116,7 +116,26 @@ rd3Ko7jGuZHBuiYH6hH49w==
 -----END PGP MESSAGE-----
 
 ```
+<a href="littlescroll.asc.txt" download>Click here to download</a>
 
 ## Unsealing The Little Scroll (Decryption)
-The key will be released after the event and placed here. 
+Once the secret key is made available, information will be posted on how to:  
 
+- **Obtain** the secret key from the official source  
+- **Import** the key for use in the decryption process  
+- **Unseal (decrypt)** The Little Scroll to reveal its contents  
+
+### PGP-Compatible Software  
+
+PGP-compatible software is required to use the key and unseal (decrypt) **The Little Scroll**. Below are some of the most common PGP/GPG software packages:  
+
+#### **Desktop**  
+- **GnuPG (GPG)** – Available for Windows, macOS, and Linux ([gnupg.org](https://gnupg.org))  
+- **Kleopatra** – A GUI frontend for GPG, included with Gpg4win for Windows  
+- **GPG Suite** – A macOS suite for OpenPGP encryption ([gpgtools.org](https://gpgtools.org))  
+
+#### **Mobile**  
+- **OpenKeychain** – Android app for OpenPGP encryption ([openkeychain.org](https://www.openkeychain.org))  
+- **PGP Everywhere** – iOS app for encrypting and decrypting PGP messages ([pgpeverywhere.com](https://pgpeverywhere.com))  
+
+Ensure you have a compatible application installed to proceed with the unsealing (decryption) process.
