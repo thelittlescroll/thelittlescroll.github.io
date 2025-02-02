@@ -2,16 +2,52 @@
 title: Welcome
 layout: home
 ---
+## Notice 
+This document has been produced by one or both of the Creator's two servants, acting directly under His guidance and in full accordance with His will. The information contained within this document, which is classified by one or more domestic or foreign governments and may be considered secret or closely held—likely to never be disclosed to the public—has been provided by the Creator to one or both of His two servants for the explicit purpose of public dissemination. This act of sharing is a crucial element of the Creator's intervention in The American Genocide, serving to expose hidden truths and further His divine mission.
+ 
+The Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
+
+---
+## The Little Scroll,
 The Little Scroll is a document that outlines the details of a planned catastrophic event. The event will result in 7,000 immediate deaths (within 30 minutes) and up to 30,000 deaths in the short term (within 60 days).
 
 The Little Scroll is being distributed in its current encrypted form without any means of decryption at this time. It is being posted preemptively to ensure its presence in the public domain prior to the occurrence of the event it describes, with timestamps serving as verification that it was made available beforehand. The encryption ensures that the document's contents cannot be altered or fabricated after the fact. The secret decryption key will be made public after the event.
 
-## Guidance for The Little Scroll
-
+### Guidance for The Little Scroll
 - There is safety in numbers. Only share The Little Scroll with your trusted network until the key is released. Until the appointed time, discretion is essential. 
 - Do not speculate on the contents of the unsealed (decrypted) Document. 
 
 ## The Little Scroll Sealed (Encrypted)
+---
+
+### How to Keep a Copy of The Little Scroll
+
+#### Option 1: Download a Copy
+
+1. **Locate the Download Link**: Here's the direct link for you to download "The Little Scroll":
+
+   <a href="/littlescroll.asc.txt" download>Click here to download The Little Scroll</a>
+
+2. **Click to Download**: Click the link above. A dialog box will appear asking where you want to save the file.
+
+3. **Choose a Location**: Select a directory on your device where you want to save the file. Make sure you remember this location for future reference.
+
+4. **Save the File**: Click "Save" or "Download". The file will begin downloading to your chosen location.
+
+#### Option 2: Copy and Paste the ASCII Armored PGP Message
+
+1. **Find the PGP Message Box**: Below you'll see a box containing the ASCII armored PGP message for "The Little Scroll".
+
+2. **Select the Text**: **Make sure to select the entire message, including both the "-----BEGIN PGP MESSAGE-----" and "-----END PGP MESSAGE-----" lines.** Highlight all the text within the PGP message box by clicking and dragging your mouse over the text, or use `Ctrl+A` (Windows) or `Cmd+A` (Mac) to select all.
+
+3. **Copy the Text**: Right-click on the selected text and choose "Copy", or press `Ctrl+C` (Windows) or `Cmd+C` (Mac).
+
+4. **Paste to a Text Editor or Secure Location**:
+   - Open a text editor like Notepad, TextEdit, or any plain text editor of your choice.
+   - Create a new document (`Ctrl+N` or `Cmd+N`).
+   - Paste the copied PGP message into the document by right-clicking and selecting "Paste" or using `Ctrl+V` or `Cmd+V`.
+   - Save the file with a secure name in a location you can access later.
+
 ```
 
 -----BEGIN PGP MESSAGE-----
@@ -120,7 +156,7 @@ rd3Ko7jGuZHBuiYH6hH49w==
 -----END PGP MESSAGE-----
 
 ```
-<a href="littlescroll.asc.txt" download>Click here to download</a>
+<a href="littlescroll.asc.txt" download>Click here to download The Little Scroll</a>
 
 ## Unsealing The Little Scroll (Decryption)
 Once the secret key is made available, information will be posted on how to:  
