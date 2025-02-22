@@ -154,7 +154,8 @@ rd3Ko7jGuZHBuiYH6hH49w==
 ## Unsealing The Little Scroll (Decryption)
 Once the secret key is made available, information will be posted on how to:  
 
-- **Obtain** the secret key from the official source  
+- **Obtain** the secret key from [https://0xCF15C0CE.github.io](https://0xCF15C0CE.github.io)
+- **Obtain** the passphrase from [https://0xCF15C0CE.github.io](https://0xCF15C0CE.github.io). ("NOT_RELEASED" indicates the passphrase has not yet been released.")
 - **Import** the key for use in the decryption process  
 - **Unseal (decrypt)** The Little Scroll to reveal its contents  
 
